@@ -1,90 +1,112 @@
 [
-    {
-      "id": 1,
-      "question": "¿Cuándo descubre Walter White que Jesse Pinkman cocina metanfetaminas?"
-    },
-    {
-      "id": 2,
-      "question": "¿Cómo consigue Heisenberg que Tuco le pague lo que le debe?"
-    },
-    {
-      "id": 3,
-      "question": "¿Cómo mata Jesse a los yonkis que le robaron el dinero a Skinny Pete?"
-    },
-    {
-      "id": 4,
-      "question": "¿A quién pertenece el famoso osito rosa?"
-    },
-    {
-      "id": 5,
-      "question": "¿Qué salva a Walt de una muerta segura a manos de los hermanos Salamanca?"
-    },
-    {
-      "id": 6,
-      "question": "¿Quiénes matan a Tomás Castillo, hermano de la novia de Jesse?"
-    },
-    {
-      "id": 7,
-      "question": "¿Por qué mata Jesse a Gale Boetticher?"
-    },
-    {
-      "id": 8,
-      "question": "¿Cómo corta lazos con el cártel de México Gus Fring?"
-    },
-    {
-      "id": 9,
-      "question": "¿Por qué Gus odia a Héctor Salamanca?"
-    },
-    {
-      "id": 10,
-      "question": "¿Cómo acaba Heisenberg con Gus Fring?"
-    },
-    {
-      "id": 11,
-      "question": "¿Muere alguien durante toda la serie gracias al ricina?"
-    },
-    {
-      "id": 12,
-      "question": "¿Cuál de estas frases no son una de las frases famosas de Walter White?"
-    },
-    {
-      "id": 13,
-      "question": "¿Qué familiar de Walt muere por su culpa?"
-    },
-    {
-      "id": 14,
-      "question": "¿En qué año se formó la banda?"
-    },
-    {
-      "id": 15,
-      "question": "¿Cuántos miembros han pasado por el grupo y cuántos lo forman actualmente?"
-    },
-    {
-      "id": 16,
-      "question": "¿Cuál de sus miembros es católico y acude regularmente a misa?"
-    },
-    {
-      "id": 17,
-      "question": "¿Cómo se llama la mascota de la banda?"
-    },
-    {
-      "id": 18,
-      "question": "¿Cuántos álbumes de estudio han producido?"
-    },
-    {
-      "id": 19,
-      "question": "¿Cuál de las siguientes canciones es más larga?"
-    },
-    {
-      "id": 20,
-      "question": "¿Cuál de sus canciones abajo mencionadas no habla sobre la guerra?"
-    },
-    {
-      "id": 21,
-      "question": "¿De qué padeció Bruce Dickinson en 2015?"
-    },
-    {
-      "id": 22,
-      "question": "¿Cuál de estas canciones suyas no aparece en ningún álbum?"
-    }
-  ]
+  {
+    "id": 1,
+    "quiz": 1,
+    "question": "¿Cuándo descubre Walter White que Jesse Pinkman cocina metanfetaminas?"
+  },
+  {
+    "id": 2,
+    "quiz": 1,
+    "question": "¿Cómo consigue Heisenberg que Tuco le pague lo que le debe?"
+  },
+  {
+    "id": 3,
+    "quiz": 1,
+    "question": "¿Cómo mata Jesse a los yonkis que le robaron el dinero a Skinny Pete?"
+  },
+  {
+    "id": 4,
+    "quiz": 1,
+    "question": "¿A quién pertenece el famoso osito rosa?"
+  },
+  {
+    "id": 5,
+    "quiz": 1,
+    "question": "¿Qué salva a Walt de una muerta segura a manos de los hermanos Salamanca?"
+  },
+  {
+    "id": 6,
+    "quiz": 1,
+    "question": "¿Quiénes matan a Tomás Castillo, hermano de la novia de Jesse?"
+  },
+  {
+    "id": 7,
+    "quiz": 1,
+    "question": "¿Por qué mata Jesse a Gale Boetticher?"
+  },
+  {
+    "id": 8,
+    "quiz": 1,
+    "question": "¿Cómo corta lazos con el cártel de México Gus Fring?"
+  },
+  {
+    "id": 9,
+    "quiz": 1,
+    "question": "¿Por qué Gus odia a Héctor Salamanca?"
+  },
+  {
+    "id": 10,
+    "quiz": 1,
+    "question": "¿Cómo acaba Heisenberg con Gus Fring?"
+  },
+  {
+    "id": 11,
+    "quiz": 1,
+    "question": "¿Muere alguien durante toda la serie gracias al ricina?"
+  },
+  {
+    "id": 12,
+    "quiz": 1,
+    "question": "¿Cuál de estas frases no son una de las frases famosas de Walter White?"
+  },
+  {
+    "id": 13,
+    "quiz": 1,
+    "question": "¿Qué familiar de Walt muere por su culpa?"
+  },
+  {
+    "id": 14,
+    "quiz": 2,
+    "question": "¿En qué año se formó la banda?"
+  },
+  {
+    "id": 15,
+    "quiz": 2,
+    "question": "¿Cuántos miembros han pasado por el grupo y cuántos lo forman actualmente?"
+  },
+  {
+    "id": 16,
+    "quiz": 2,
+    "question": "¿Cuál de sus miembros es católico y acude regularmente a misa?"
+  },
+  {
+    "id": 17,
+    "quiz": 2,
+    "question": "¿Cómo se llama la mascota de la banda?"
+  },
+  {
+    "id": 18,
+    "quiz": 2,
+    "question": "¿Cuántos álbumes de estudio han producido?"
+  },
+  {
+    "id": 19,
+    "quiz": 2,
+    "question": "¿Cuál de las siguientes canciones es más larga?"
+  },
+  {
+    "id": 20,
+    "quiz": 2,
+    "question": "¿Cuál de sus canciones abajo mencionadas no habla sobre la guerra?"
+  },
+  {
+    "id": 21,
+    "quiz": 2,
+    "question": "¿De qué padeció Bruce Dickinson en 2015?"
+  },
+  {
+    "id": 22,
+    "quiz": 2,
+    "question": "¿Cuál de estas canciones suyas no aparece en ningún álbum?"
+  }
+]

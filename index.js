@@ -2,8 +2,8 @@ require('dotenv');
 
 const admin = require('./node_modules/firebase-admin');
 const serviceAccount = require("./permissions.json");
-const data = require('./assets/quiz.json');
-const collectionKey = 'quizes'; 
+const data = require('./assets/questions.json');
+const collectionKey = 'questions'; 
 //name of the collection
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
