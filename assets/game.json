@@ -1,0 +1,584 @@
+[
+    {
+      "id": 1,
+      "idQuestion": 1,
+      "answer": "Cuando Walt quiere comprar marihuana.",
+      "isCorrect": 0
+    },
+    {
+      "id": 2,
+      "idQuestion": 1,
+      "answer": "Le pilla vendiendo en su calle.",
+      "isCorrect": 0
+    },
+    {
+      "id": 3,
+      "idQuestion": 1,
+      "answer": "Cuando Jesse estaba en el instituto.",
+      "isCorrect": 0
+    },
+    {
+      "id": 4,
+      "idQuestion": 1,
+      "answer": "En una redada de la DEA.",
+      "isCorrect": 1
+    },
+    {
+      "id": 5,
+      "idQuestion": 2,
+      "answer": "Mata a Tuco.",
+      "isCorrect": 0
+    },
+    {
+      "id": 6,
+      "idQuestion": 2,
+      "answer": "Se lo pide por favor.",
+      "isCorrect": 0
+    },
+    {
+      "id": 7,
+      "idQuestion": 2,
+      "answer": "Hace explotar su oficina con un compuesto químico que parece cristal.",
+      "isCorrect": 1
+    },
+    {
+      "id": 8,
+      "idQuestion": 2,
+      "answer": "Manda a Jesse a que le pegue una paliza.",
+      "isCorrect": 0
+    },
+    {
+      "id": 9,
+      "idQuestion": 3,
+      "answer": "Los yonkis matan a Jesse.",
+      "isCorrect": 0
+    },
+    {
+      "id": 10,
+      "idQuestion": 3,
+      "answer": "Con una pistola con silenciador, rápido y silencioso",
+      "isCorrect": 0
+    },
+    {
+      "id": 11,
+      "idQuestion": 3,
+      "answer": "Les pone una bomba.",
+      "isCorrect": 0
+    },
+    {
+      "id": 12,
+      "idQuestion": 3,
+      "answer": "No los mata, se matan entre ellos.",
+      "isCorrect": 1
+    },
+    {
+      "id": 13,
+      "idQuestion": 4,
+      "answer": "A nadie, cayó del cielo.",
+      "isCorrect": 1
+    },
+    {
+      "id": 14,
+      "idQuestion": 4,
+      "answer": "Es un recuerdo de Walter, de cuando era pequeño.",
+      "isCorrect": 0
+    },
+    {
+      "id": 15,
+      "idQuestion": 4,
+      "answer": "Es el primer regalo para Holy.",
+      "isCorrect": 0
+    },
+    {
+      "id": 16,
+      "idQuestion": 4,
+      "answer": "Es de Walter Jr.",
+      "isCorrect": 0
+    },
+    {
+      "id": 17,
+      "idQuestion": 5,
+      "answer": "Walter los manipula y van a por Gus.",
+      "isCorrect": 0
+    },
+    {
+      "id": 18,
+      "idQuestion": 5,
+      "answer": "Pollos",
+      "isCorrect": 1
+    },
+    {
+      "id": 19,
+      "idQuestion": 5,
+      "answer": "Mike los mata",
+      "isCorrect": 0
+    },
+    {
+      "id": 20,
+      "idQuestion": 5,
+      "answer": "Deciden irse porque no era un buen momento para matarlo.",
+      "isCorrect": 0
+    },
+    {
+      "id": 21,
+      "idQuestion": 6,
+      "answer": "Skinny Pete.",
+      "isCorrect": 0
+    },
+    {
+      "id": 22,
+      "idQuestion": 6,
+      "answer": "Walter para enseñarle una lección.",
+      "isCorrect": 0
+    },
+    {
+      "id": 23,
+      "idQuestion": 6,
+      "answer": "Un par de camellos de Gus.",
+      "isCorrect": 1
+    },
+    {
+      "id": 24,
+      "idQuestion": 6,
+      "answer": "El propio Jesse.",
+      "isCorrect": 0
+    },
+    {
+      "id": 25,
+      "idQuestion": 7,
+      "answer": "Para salvar su vida.",
+      "isCorrect": 0
+    },
+    {
+      "id": 26,
+      "idQuestion": 7,
+      "answer": "Porque no quiere que Gale vaya a la policía.",
+      "isCorrect": 0
+    },
+    {
+      "id": 27,
+      "idQuestion": 7,
+      "answer": "Porque le cae mal.",
+      "isCorrect": 0
+    },
+    {
+      "id": 28,
+      "idQuestion": 7,
+      "answer": "Para salvar la vida de Walt.",
+      "isCorrect": 1
+    },
+    {
+      "id": 29,
+      "idQuestion": 8,
+      "answer": "Envenena a todos los capos.",
+      "isCorrect": 1
+    },
+    {
+      "id": 30,
+      "idQuestion": 8,
+      "answer": "Les ofrece 100 millones de dólares.",
+      "isCorrect": 0
+    },
+    {
+      "id": 31,
+      "idQuestion": 8,
+      "answer": "Les ofrece a Jesse.",
+      "isCorrect": 0
+    },
+    {
+      "id": 32,
+      "idQuestion": 8,
+      "answer": "Mata al Tortuga para ellos.",
+      "isCorrect": 0
+    },
+    {
+      "id": 33,
+      "idQuestion": 9,
+      "answer": "Porque es un soplón.",
+      "isCorrect": 0
+    },
+    {
+      "id": 34,
+      "idQuestion": 9,
+      "answer": "Porque mató a su mejor amigo.",
+      "isCorrect": 1
+    },
+    {
+      "id": 35,
+      "idQuestion": 9,
+      "answer": "Porque intento acabar con su vida.",
+      "isCorrect": 0
+    },
+    {
+      "id": 36,
+      "idQuestion": 9,
+      "answer": "Porque le robó la mujer.",
+      "isCorrect": 0
+    },
+    {
+      "id": 37,
+      "idQuestion": 10,
+      "answer": "Le envenena con ricina.",
+      "isCorrect": 0
+    },
+    {
+      "id": 38,
+      "idQuestion": 10,
+      "answer": "Se alía con don Salamanca para hacerlo volar por los aires.",
+      "isCorrect": 1
+    },
+    {
+      "id": 39,
+      "idQuestion": 10,
+      "answer": "Contrata a un sicario para que se encargue de él.",
+      "isCorrect": 0
+    },
+    {
+      "id": 40,
+      "idQuestion": 10,
+      "answer": "No lo mata, consiguen firmar la paz.",
+      "isCorrect": 0
+    },
+    {
+      "id": 41,
+      "idQuestion": 11,
+      "answer": "Lydia, la que les consigue la metilamina.",
+      "isCorrect": 1
+    },
+    {
+      "id": 42,
+      "idQuestion": 11,
+      "answer": "Tuco Salamanca.",
+      "isCorrect": 0
+    },
+    {
+      "id": 43,
+      "idQuestion": 11,
+      "answer": "No, están toda la serie con el ricina p'arriba y el ricina p'abajo y nunca lo usan.",
+      "isCorrect": 0
+    },
+    {
+      "id": 44,
+      "idQuestion": 11,
+      "answer": "Mike.",
+      "isCorrect": 0
+    },
+    {
+      "id": 45,
+      "idQuestion": 12,
+      "answer": "Say my name.",
+      "isCorrect": 0
+    },
+    {
+      "id": 46,
+      "idQuestion": 12,
+      "answer": "I am not in danger, I am the danger. A guy opens his door and gets shot and you think that of me? No. I am the one who knocks.",
+      "isCorrect": 0
+    },
+    {
+      "id": 47,
+      "idQuestion": 12,
+      "answer": "Chemistry must be respected.",
+      "isCorrect": 0
+    },
+    {
+      "id": 48,
+      "idQuestion": 12,
+      "answer": "A man provides for his family. And he does it even when he's not appreciated, or respected, or even loved. He simply bears up a",
+      "isCorrect": 1
+    },
+    {
+      "id": 49,
+      "idQuestion": 13,
+      "answer": "Holy.",
+      "isCorrect": 0
+    },
+    {
+      "id": 50,
+      "idQuestion": 13,
+      "answer": "Hank.",
+      "isCorrect": 1
+    },
+    {
+      "id": 51,
+      "idQuestion": 13,
+      "answer": "Skyler.",
+      "isCorrect": 0
+    },
+    {
+      "id": 52,
+      "idQuestion": 13,
+      "answer": "Walter Jr.",
+      "isCorrect": 0
+    },
+    {
+      "id": 53,
+      "idQuestion": 14,
+      "answer": 1975,
+      "isCorrect": 1
+    },
+    {
+      "id": 54,
+      "idQuestion": 14,
+      "answer": 1976,
+      "isCorrect": 0
+    },
+    {
+      "id": 55,
+      "idQuestion": 14,
+      "answer": 1980,
+      "isCorrect": 0
+    },
+    {
+      "id": 56,
+      "idQuestion": 14,
+      "answer": 1979,
+      "isCorrect": 0
+    },
+    {
+      "id": 57,
+      "idQuestion": 14,
+      "answer": 1978,
+      "isCorrect": 0
+    },
+    {
+      "id": 58,
+      "idQuestion": 15,
+      "answer": "Actualmente 6, en total 21",
+      "isCorrect": 0
+    },
+    {
+      "id": 59,
+      "idQuestion": 15,
+      "answer": "Actualmente 6, en total 20",
+      "isCorrect": 0
+    },
+    {
+      "id": 60,
+      "idQuestion": 15,
+      "answer": "Actualmente 5, en total 22",
+      "isCorrect": 0
+    },
+    {
+      "id": 61,
+      "idQuestion": 15,
+      "answer": "Actualmente 5, en total 24",
+      "isCorrect": 0
+    },
+    {
+      "id": 62,
+      "idQuestion": 15,
+      "answer": "Actualmente 6, en total 23",
+      "isCorrect": 1
+    },
+    {
+      "id": 63,
+      "idQuestion": 16,
+      "answer": "Bruce Dickinson",
+      "isCorrect": 0
+    },
+    {
+      "id": 64,
+      "idQuestion": 16,
+      "answer": "Nicko McBrain",
+      "isCorrect": 1
+    },
+    {
+      "id": 65,
+      "idQuestion": 16,
+      "answer": "Dave Murray",
+      "isCorrect": 0
+    },
+    {
+      "id": 66,
+      "idQuestion": 16,
+      "answer": "Steve Harris",
+      "isCorrect": 0
+    },
+    {
+      "id": 67,
+      "idQuestion": 16,
+      "answer": "Paul Di'Anno",
+      "isCorrect": 0
+    },
+    {
+      "id": 68,
+      "idQuestion": 17,
+      "answer": "Rattlehead",
+      "isCorrect": 0
+    },
+    {
+      "id": 69,
+      "idQuestion": 17,
+      "answer": "Eddie The Pharaoh",
+      "isCorrect": 0
+    },
+    {
+      "id": 70,
+      "idQuestion": 17,
+      "answer": "Eddie The Head",
+      "isCorrect": 1
+    },
+    {
+      "id": 71,
+      "idQuestion": 17,
+      "answer": "Eddie",
+      "isCorrect": 0
+    },
+    {
+      "id": 72,
+      "idQuestion": 17,
+      "answer": "Jack O'Lantern",
+      "isCorrect": 0
+    },
+    {
+      "id": 73,
+      "idQuestion": 18,
+      "answer": 16,
+      "isCorrect": 1
+    },
+    {
+      "id": 74,
+      "idQuestion": 18,
+      "answer": 13,
+      "isCorrect": 0
+    },
+    {
+      "id": 75,
+      "idQuestion": 18,
+      "answer": 15,
+      "isCorrect": 0
+    },
+    {
+      "id": 76,
+      "idQuestion": 18,
+      "answer": 14,
+      "isCorrect": 0
+    },
+    {
+      "id": 77,
+      "idQuestion": 18,
+      "answer": 17,
+      "isCorrect": 0
+    },
+    {
+      "id": 78,
+      "idQuestion": 19,
+      "answer": "When The Wild Wind Blows",
+      "isCorrect": 0
+    },
+    {
+      "id": 79,
+      "idQuestion": 19,
+      "answer": "The Red And The Black",
+      "isCorrect": 0
+    },
+    {
+      "id": 80,
+      "idQuestion": 19,
+      "answer": "For The Greater Good Of God",
+      "isCorrect": 0
+    },
+    {
+      "id": 81,
+      "idQuestion": 19,
+      "answer": "Rime Of The Ancient Mariner",
+      "isCorrect": 1
+    },
+    {
+      "id": 82,
+      "idQuestion": 19,
+      "answer": "The Clansman",
+      "isCorrect": 0
+    },
+    {
+      "id": 83,
+      "idQuestion": 20,
+      "answer": "The Trooper",
+      "isCorrect": 0
+    },
+    {
+      "id": 84,
+      "idQuestion": 20,
+      "answer": "Wasted Years",
+      "isCorrect": 1
+    },
+    {
+      "id": 85,
+      "idQuestion": 20,
+      "answer": "Run To The Hills",
+      "isCorrect": 0
+    },
+    {
+      "id": 86,
+      "idQuestion": 20,
+      "answer": "Paschendale",
+      "isCorrect": 0
+    },
+    {
+      "id": 87,
+      "idQuestion": 20,
+      "answer": "Aces High",
+      "isCorrect": 0
+    },
+    {
+      "id": 88,
+      "idQuestion": 21,
+      "answer": "Infarto de miocardio",
+      "isCorrect": 0
+    },
+    {
+      "id": 89,
+      "idQuestion": 21,
+      "answer": "Cáncer de garganta",
+      "isCorrect": 0
+    },
+    {
+      "id": 90,
+      "idQuestion": 21,
+      "answer": "Cáncer de testículo",
+      "isCorrect": 0
+    },
+    {
+      "id": 91,
+      "idQuestion": 21,
+      "answer": "Cáncer de lengua",
+      "isCorrect": 1
+    },
+    {
+      "id": 92,
+      "idQuestion": 21,
+      "answer": "Cáncer de pulmón",
+      "isCorrect": 0
+    },
+    {
+      "id": 93,
+      "idQuestion": 22,
+      "answer": "That Girl",
+      "isCorrect": 1
+    },
+    {
+      "id": 94,
+      "idQuestion": 22,
+      "answer": "Weekend Warrior",
+      "isCorrect": 0
+    },
+    {
+      "id": 95,
+      "idQuestion": 22,
+      "answer": "Como Estais Amigos",
+      "isCorrect": 0
+    },
+    {
+      "id": 96,
+      "idQuestion": 22,
+      "answer": "The Prophecy",
+      "isCorrect": 0
+    },
+    {
+      "id": 97,
+      "idQuestion": 22,
+      "answer": "Lord Of The Flies",
+      "isCorrect": 0
+    }
+  ]
