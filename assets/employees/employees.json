@@ -7,7 +7,7 @@
       "phone": 373827222,
       "address": "Ezozia, 20590 Soraluze (Gipuzkoa)",
       "position": "PFS",
-      "status": 1
+      "status": "ACTIVE"
     },
     {
       "id": "MNU001",
@@ -17,6 +17,6 @@
       "phone": 333333333,
       "address": "Untzaga, 20600, Eibar (Gipuzkoa)",
       "position": "FRO",
-      "status": 2
+      "status": "TEMPORALY_DISABLED"
     }
   ]
