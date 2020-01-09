@@ -1,0 +1,32 @@
+[
+    {
+      "id": "PFS",
+      "name": "Desarrollador Full Stack",
+      "active": 1
+    },
+    {
+      "id": "GRT",
+      "name": "Gerente",
+      "active": 1
+    },
+    {
+      "id": "CMP",
+      "name": "Compras",
+      "active": 1
+    },
+    {
+      "id": "MOB",
+      "name": "Mobile",
+      "active": 1
+    },
+    {
+      "id": "BAC",
+      "name": "Backend",
+      "active": 1
+    },
+    {
+      "id": "FRO",
+      "name": "Frontend",
+      "active": 1
+    }
+  ]
