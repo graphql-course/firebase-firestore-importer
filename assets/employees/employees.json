@@ -6,7 +6,7 @@
       "birthday": "10/01/1986",
       "phone": 373827222,
       "address": "Ezozia, 20590 Soraluze (Gipuzkoa)",
-      "position": "PFS",
+      "positionId": "PFS",
       "status": "ACTIVE"
     },
     {
@@ -16,7 +16,7 @@
       "birthday": "20/02/1980",
       "phone": 333333333,
       "address": "Untzaga, 20600, Eibar (Gipuzkoa)",
-      "position": "FRO",
+      "positionId": "FRO",
       "status": "TEMPORALY_DISABLED"
     }
   ]
