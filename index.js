@@ -1,6 +1,6 @@
 require('dotenv');
 
-const admin = require('./node_modules/firebase-admin');
+const admin = require('firebase-admin');
 const serviceAccount = require("./permissions.json");
 const data = require('./assets/employees/employees.json');
 const collectionKey = 'employees'; 
